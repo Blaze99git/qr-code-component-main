@@ -13,13 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot%20.png)
+.[Screenshot](./Screenshot%20.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/index.html)
+- Live Site URL: [Live site Link](http://127.0.0.1:5500/index.html)
 
 ## My process
 
@@ -52,4 +51,3 @@ Whether you're a fellow developer looking for inspiration or a potential collabo
 ## Author
 - GitHub Dev - (https://github.com/Blaze99git)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Blaze99git)
-
